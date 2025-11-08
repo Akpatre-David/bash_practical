@@ -1,0 +1,6 @@
+2025-11-08 14:22:51 [ERROR] Failed to create user 'Firstname,Lastname,Email,Password,Tier'.
+2025-11-08 14:22:51 [ERROR] Failed to create user 'James,John,james@email.com,password123,free'.
+2025-11-08 14:22:51 [ERROR] Failed to create user 'Akeem,Hammed,ak100@email.com,password13,basic'.
+2025-11-08 14:22:51 [ERROR] Failed to create user 'Adeolu,Mike,mike101@email.com,trust100@123,premium'.
+2025-11-08 14:22:51 [ERROR] Failed to create user 'Mariam,Adams,madams@email.com,password103,premium'.
+2025-11-08 14:22:51 [ERROR] Failed to create user 'Joseph,Andrew,andry@email.com,passwor312dd,basic'.

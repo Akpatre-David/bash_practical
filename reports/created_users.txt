@@ -1,0 +1,5 @@
+jamesjohn,james@email.com,free,password123
+akeemhammed,ak100@email.com,basic,password13
+adeolumike,mike101@email.com,premium,trust100@123
+mariamadams,madams@email.com,premium,password103
+josephandrew,andry@email.com,basic,passwor312dd
